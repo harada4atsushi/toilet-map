@@ -2,6 +2,7 @@
 このリポジトリは和歌山県の公共トイレ情報を公開しているリポジトリをforkしたものです。
 
 @wakayama-pref-org
+
 https://github.com/wakayama-pref-org/toilet-map
 
 自分で何か作ろうと思いましたが、すでにトイレマップのWEBアプリケーション化を進めいている方(@Ryosuke0307)がいましたので、そちらに協力していくことにしました。
